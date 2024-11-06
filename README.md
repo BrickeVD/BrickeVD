@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ProductDB
 - 📫 How to reach me Email/LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm not even close to a developper, i just know what i want.
 
 <!---
 BrickeVD/BrickeVD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
